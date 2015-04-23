@@ -1,0 +1,11 @@
+study, studies
+experiment, experiments
+meta-analysis, meta-analyses
+report, reports
+result, results
+comparison, comparisons
+analysis, analyses
+method, methods
+review, reviews
+theory, theories
+projection, projections

@@ -1,0 +1,12 @@
+physicist, physicists
+biologist, biologists
+mathematician, mathematicians
+physicist, physicists
+psychologist, psychologists
+socialist, socialists
+communist, communists
+English major, English majors
+cat, cats
+alien, aliens
+robot, robots
+cyborg, cyborgs

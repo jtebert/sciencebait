@@ -1,0 +1,31 @@
+Alan Turing, m
+Albert Einstein, m
+Isaac Newton, m
+Marie Curie, f
+Galileo, m
+Charles Darwin, m
+Archimedes, m
+Stephen Hawking, m
+Nikola Tesla, m
+Thomas Edison, m
+Francis Crick, m
+Gregor Mendel, m
+Carl Sagan, m
+Max Planck, m
+Rosalind Franklin, f
+Leonardo da Vinci, m
+Robert Hooke, m
+Linus Pauling, m
+Enrico Fermi, m
+Francis Bacon, m
+Carl Friedrich Gauss, m
+Pythagoras, m
+René Descartes, m
+Johannes Kepler, m
+Paul Erdös, m
+Grace Hopper, f
+Ada Lovelace, f
+Steve Wozniak, m
+Sigmund Freud, m
+B. F. Skinner, m
+Ivan Pavlov, m
