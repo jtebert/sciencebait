@@ -21,9 +21,9 @@ def create_bait():
 
     if i == 0:
         s = "{0} try to make {1} for {2}. {3}".format(
-            person_type.pick_plural(), object.pick_plural(), subject.pick_plural(), secondary.pick())
+            research_type.pick_plural(), object.pick_plural(), subject.pick_plural(), secondary.pick())
     elif i == 1:
-        s = "This {0} was forced to {1} due to its lack of {2}. {3}".format(
+        s = "This {0} was forced to {1} because it didn't have {2}. {3}".format(
             subject.pick_single(), subject_action_intrans.pick_single(), object.pick_single(), secondary.pick())
     elif i == 2:
         s = "This {0} will prove you've been {1} {2} wrong your whole life.".format(
@@ -86,7 +86,7 @@ def create_bait():
         s = "Have {0} been lying about {1} {2}?".format(
             researcher_type.pick_plural(), adjective.pick(), object.pick_plural())
     elif i == 20:
-        s = "Meet the bad-ass {} who changed the way {} {} {}.".format(
+        s = "Meet the Bad-Ass {} who changed the way {} {} {}.".format(
             researcher_type.pick_single(), subject.pick_plural(), subject_action_trans.pick_single(), object.pick_plural())
     elif i == 21:
         s = "Ever wonder why {} {}? These {} facts will blow your mind!".format(

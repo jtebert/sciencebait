@@ -13,3 +13,5 @@ replicate, replicating
 map, mapping
 design, designing
 characterize, characterizing
+kill, killing
+hide, hiding
