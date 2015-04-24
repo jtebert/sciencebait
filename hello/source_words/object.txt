@@ -22,12 +22,11 @@ rectum, rectums
 progesterone, progesterones
 pathology, pathologies
 crystal, crystals
-spectroscopy, spectroscopy
+spectroscopy, spectroscopies
 radiation, radiations
 nuclear magnetic resonance, nuclear magnetic resonances
 dysfunction, dysfunctions
 mutation, mutations
-earthquake, earthquakes
 surface-wave tomography, surface-wave tomographies
 personality trait, personality traits
 centripetal force, centripetal forces

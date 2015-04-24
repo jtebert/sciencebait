@@ -20,7 +20,7 @@ def create_bait():
     print i
 
     if i == 0:
-        s = "{0} try to make {1} for {2}. {3}.".format(
+        s = "{0} try to make {1} for {2}. {3}".format(
             person_type.pick_plural(), object.pick_plural(), subject.pick_plural(), secondary.pick())
     elif i == 1:
         s = "This {0} was forced to {1} due to its lack of {2}. {3}".format(
@@ -36,7 +36,7 @@ def create_bait():
         s = "{0} {1} that {2} like {3}.".format(
             number.pick(), subject.pick_plural(), subject_action_intrans.pick_single(), object.pick_plural())
     elif i == 5:
-        s = "{0} {1} the {2} {3} won't {4}.".format(
+        s = "{0} {1} that the {2} {3} won't {4}.".format(
             number.pick(), object.pick_plural(), adjective.pick(), subject.pick_plural(), subject_action_intrans.pick_single())
     elif i == 6:
         s = "{0} {1} that can't be explained by {2}.".format(
@@ -64,21 +64,21 @@ def create_bait():
         s = "Is {0} wrong about {1}?".format(
             field.pick(), object.pick_plural())
     elif i == 13:
-        s = "The {0} about {1} that {2} should {3} on {4}.".format(
+        s = "This {0} about {1} says that {2} should {3} {4}.".format(
             research_type.pick_single(), object.pick_plural(), researcher_type.pick_plural(),
             researcher_action.pick_plural(), subject.pick_plural())
     elif i == 14:
         s = "Did {0} {1} {2}?".format(
             researcher.pick()[0], researcher_action.pick_single(), subject.pick_plural())
     elif i == 15:
-        s = "Could {0} {1} be {2}?".format(
+        s = "Who knew {0} {1} could be so {2}?".format(
             adjective.pick(), object.pick_plural(), adjective.pick())
     elif i == 16:
-        s = "Do {0} {1} cause {2} {3}?".format(
+        s = "Do {0} {1} really cause {2} {3}?".format(
             adjective.pick(), object.pick_plural(), adjective.pick(), object.pick_plural())
     elif i == 17:
-        s = "{0} find new {1} {2}!".format(
-            researcher_type.pick_plural(), adjective.pick(), object.pick_single())
+        s = "{0} find new {1} {2} that could let {3} {4}!".format(
+            researcher_type.pick_plural(), adjective.pick(), object.pick_single(), object.pick_plural(), subject_action_intrans.pick_single())
     elif i == 18:
         s = "That truth about {0} {1}.".format(
             adjective.pick(), object.pick_plural())
@@ -145,7 +145,8 @@ def create_bait():
         s = "{} ways that {} {}.".format(
             number.pick(), subject.pick_plural(), subject_action_intrans.pick_single())
 
-    s = s[0].upper() + s[1:]
+    lst = [word[0].upper() + word[1:] for word in s.split()]
+    s = " ".join(lst)
     return s
 
 print create_bait()

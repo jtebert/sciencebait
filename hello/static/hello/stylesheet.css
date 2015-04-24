@@ -1,0 +1,65 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: #34495e;
+	font-size: .95em;
+	font-family: 'Droid Sans', 'Arial', sans;
+    color: #ecf0f1;
+}
+
+html, button {
+    font-family: 'robotoregular', sans-serif;
+    font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'roboto_slabbold', serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 5em;
+    text-shadow: 2px 2px 0 #e67e22;
+    color: #ecf0f1;
+    margin: 20px 0;
+}
+
+a {
+    color: #ecf0f1;
+}
+
+a:hover {
+    color: #e67e22;
+}
+
+#wrapper {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#content {
+    padding: 25px 50px;
+    background-color: #ecf0f1;
+    color: #333;
+}
+
+#clickbait {
+    font-size: 2em;
+}
+
+#refresh {
+    font-family: 'roboto_slabbold', serif;
+    font-size: 1.5em;
+    background-color: #e67e22;
+    margin: 0 0 30px 0;
+    padding: 15px;
+    color: #ecf0f1;
+    display: table;
+    text-decoration: none;
+}
+
+#refresh:hover {
+    background-color: #d35400;
+}

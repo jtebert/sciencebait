@@ -1,0 +1,23 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Science Clickbait</title>
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_bold_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_light_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_regular_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_thin_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/droidsansmono_regular_macroman/stylesheet.css' %}" />
+</head>
+<body>
+<div id="wrapper">
+    <h1>Scientific Clickbait</h1>
+    <div><a href="" id="refresh">Another!</a></div>
+    <div id="content">
+        <p id="clickbait">{{ phrase }}</p>
+    </div>
+    <p>Made by <a href="http://juliaebert.com">Julia Ebert</a></p>
+</div>
+</body>
