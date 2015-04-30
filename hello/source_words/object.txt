@@ -1,7 +1,6 @@
 petri dish, petri dishes
 solution, solutions
 gel electrophoresis, gel electrophoreses
-cancer, cancers
 cell culture, cell cultures
 protein, proteins
 gene, genes
@@ -15,7 +14,6 @@ neuroblastoma, neuroblastomas
 rectum, rectums
 pathology, pathologies
 crystal, crystals
-spectroscopy, spectroscopies
 dysfunction, dysfunctions
 mutation, mutations
 personality trait, personality traits

@@ -92,14 +92,15 @@ class OneType:
 
 class NumberType:
     def __init__(self):
-        self.numbers = range(2, 27)
-        self.numbers.extend([1235, 666, 27512, 99, 101])
+        self.numbers = range(2, 30)
+        self.numbers.extend([1325, 666, 27512, 99, 101, 573])
         self.num_numbers = len(self.numbers) - 1
 
     def pick(self):
         i = random.randint(0, self.num_numbers)
         #print i, len(self.numbers)
-        return self.numbers[i]
+        n = self.numbers[i]
+        return "{:,}".format(n)
 
 
 def a_an(string):
