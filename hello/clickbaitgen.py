@@ -15,7 +15,7 @@ research_type = PairedType('source_words/research_type.txt')
 researcher_type = PairedType('source_words/researcher_type.txt')
 
 def create_bait():
-    i = random.randint(0, 38)
+    i = random.randint(0, 37)
     #i = 38
     print i
 
