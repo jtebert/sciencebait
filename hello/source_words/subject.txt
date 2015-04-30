@@ -14,7 +14,6 @@ substrate, substrates
 child, children
 closed system, closed systems
 system, systems
-theory, theories
 monkey, monkeys
 animal, animals
 primate, primates

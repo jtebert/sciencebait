@@ -17,6 +17,14 @@ def import_words(str_file):
     return x
 
 
+def pick_plural_or_general(paired, one):
+    n = random.randint(0, 1)
+    if n == 0:
+        return paired.pick_plural()
+    else:
+        return one.pick()
+
+
 def get_pronoun(s):
     if s == 'm':
         return 'he'

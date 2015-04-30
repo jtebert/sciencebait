@@ -1,13 +1,8 @@
-capacitance, capacitances
-2-hydroxyproponal, 2-hydroxyproponals
-lactate dehydrogenase, lactate dehydrogenases
 petri dish, petri dishes
 solution, solutions
 gel electrophoresis, gel electrophoreses
-everything, everything
 cancer, cancers
 cell culture, cell cultures
-result, results
 protein, proteins
 gene, genes
 amino acid, amino acids
@@ -17,20 +12,13 @@ embryo, embryos
 therapy, therapies
 tumor, tumors
 neuroblastoma, neuroblastomas
-evolution, evolutions
 rectum, rectums
-progesterone, progesterones
 pathology, pathologies
 crystal, crystals
 spectroscopy, spectroscopies
-radiation, radiations
-nuclear magnetic resonance, nuclear magnetic resonances
 dysfunction, dysfunctions
 mutation, mutations
-surface-wave tomography, surface-wave tomographies
 personality trait, personality traits
-centripetal force, centripetal forces
-magnification, magnifications
 black hole, black holes
 integrin, integrins
 polymer, polymers

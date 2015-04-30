@@ -2,7 +2,6 @@ absorb, absorbing
 explode, exploding
 replicate, replicating
 metabolize, metabolizing
-evolve, evolving
 orbit, orbiting
 feed, feeding
 collapse, collapsing
