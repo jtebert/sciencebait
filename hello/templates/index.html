@@ -10,6 +10,16 @@
     <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_regular_macroman/stylesheet.css' %}" />
     <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/robotoslab_thin_macroman/stylesheet.css' %}" />
     <link rel="stylesheet" type="text/css"  href="{% static 'hello/fonts/droidsansmono_regular_macroman/stylesheet.css' %}" />
+    <script>
+        $(document).ready(function () {
+            $(".listing th a").hover(function () {
+                //$(this).prepend("<i class='fa fa-link'></i>")
+                $(this).children().append('<i class="fa fa-link"></i>');
+            }, function () {
+                $(this).children().children("i").remove();
+            });
+        });
+    </script>
 </head>
 <body>
 <div id="wrapper">
@@ -19,5 +29,6 @@
         <p id="clickbait">{{ phrase }}</p>
     </div>
     <p>Made by <a href="http://juliaebert.com">Julia Ebert</a></p>
+    <p>Want some terms added? <a href="mailto:julia@juliaebert.com">Let me know.</a></p>
 </div>
 </body>

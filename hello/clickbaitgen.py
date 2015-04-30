@@ -15,7 +15,7 @@ research_type = PairedType('source_words/research_type.txt')
 researcher_type = PairedType('source_words/researcher_type.txt')
 
 def create_bait():
-    i = random.randint(0, 20)
+    i = random.randint(0, 38)
     #i = 38
     print i
 
@@ -80,7 +80,7 @@ def create_bait():
         s = "{0} find new {1} {2} that could let {3} {4}!".format(
             researcher_type.pick_plural(), adjective.pick(), object.pick_single(), object.pick_plural(), subject_action_intrans.pick_single())
     elif i == 18:
-        s = "That truth about {0} {1}.".format(
+        s = "The truth about {0} {1}.".format(
             adjective.pick(), object.pick_plural())
     elif i == 19:
         s = "Have {0} been lying about {1} {2}?".format(
