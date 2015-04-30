@@ -66,7 +66,7 @@ def create_bait():
     elif i == 13:
         s = "This {0} about {1} says that {2} should {3} {4}.".format(
             research_type.pick_single(), object.pick_plural(), researcher_type.pick_plural(),
-            researcher_action.pick_plural(), subject.pick_plural())
+            researcher_action.pick_single(), subject.pick_plural())
     elif i == 14:
         s = "Did {0} {1} {2}?".format(
             researcher.pick()[0], researcher_action.pick_single(), subject.pick_plural())
