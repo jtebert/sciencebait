@@ -1,0 +1,11 @@
+Researcher, Researchers
+scientist, Scientists
+Physicist, Physicists
+Biologist, Biologists
+Mathematician, Mathematicians
+Computer Scientist, Computer Scientists
+Psychologist, Psychologists
+Astrobiologist, Astrobiologists
+Astronomer, Astronomers
+Doctor, Doctors
+Biochemist, Biochemists

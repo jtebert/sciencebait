@@ -1,9 +1,0 @@
-study, studies
-experiment, experiments
-meta-analysis, meta-analyses
-report, reports
-comparison, comparisons
-analysis, analyses
-review, reviews
-theory, theories
-projection, projections

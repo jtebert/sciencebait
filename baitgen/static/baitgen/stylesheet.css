@@ -1,0 +1,83 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: #2e3436;
+	font-size: .95em;
+	font-family: 'Titillium Web', sans-serif;
+    color: #ecf0f1;
+}
+
+html, button {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 5em;
+    //text-shadow: 2px 2px 0 #3498db;
+    color: #ecf0f1;
+    margin: 5px 0;
+}
+
+a {
+    color: #ecf0f1;
+}
+
+a:hover {
+    color: #3498db;
+}
+
+#wrapper {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#icon {
+    float: left;
+    width: 100px;
+    margin-right: 50px;
+    vertical-align: bottom;
+}
+
+#title {
+    float: left;
+    margin-bottom: 50px;
+}
+
+#content {
+    clear: both;
+    padding: 50px;
+    background-color: #ecf0f1;
+    color: #333;
+    margin-bottom: 2em;
+}
+
+#clickbait {
+    margin: 0;
+    line-height: 1.35em;
+    font-family: 'aleo', serif;
+    font-size: 2.5em;
+}
+
+#refresh {
+    font-family: 'Titillium Web', serif;
+    font-weight: 500;
+    font-size: 1.5em;
+    background-color: #3498db;
+    padding: 5px 30px;
+    color: #ecf0f1;
+    display: table;
+    text-decoration: none;
+}
+
+#refresh:hover {
+    background-color: #2980b9;
+}

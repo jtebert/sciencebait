@@ -1,0 +1,12 @@
+Physics
+Biochemistry
+Anthropology
+Psychology
+Neuroscience
+Biology
+Mathematics
+Computer Science
+Chemistry
+Proteomics
+Asteroseismology
+Cryptography

@@ -1,0 +1,31 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Science Clickbait</title>
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/robotoslab_bold_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/robotoslab_light_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/robotoslab_regular_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/robotoslab_thin_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/droidsansmono_regular_macroman/stylesheet.css' %}" />
+    <link rel="stylesheet" type="text/css"  href="{% static 'baitgen/fonts/aleo_light_macroman/stylesheet.css' %}" />
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300|Titillium+Web:600,500,400,300' rel='stylesheet' type='text/css'>
+    <script src="{% static 'baitgen/google_analytics.js' %}"></script>
+</head>
+<body>
+<div id="wrapper">
+    <img src="{% static 'baitgen/imgs/icon.png' %}" id="icon"/>
+    <div id="title">
+        <h1>Science Clickbait</h1>
+        <div><a href="" id="refresh">Another!</a></div>
+    </div>
+    <div id="content">
+        <p id="clickbait">{{ phrase }}</p>
+    </div>
+    <p>Made by <a href="http://juliaebert.com">Julia Ebert</a><br/>
+    Hook logo created by Sagit Milshtein, the Noun Project</p>
+    <p>Want some terms added? <a href="mailto:julia@juliaebert.com">Let me know.</a></p>
+</div>
+</body>

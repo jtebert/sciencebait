@@ -1,0 +1,14 @@
+Absorb, Absorbing
+Explode, Exploding
+Replicate, Replicating
+Metabolize, Metabolizing
+Orbit, Orbiting
+Feed, Feeding
+Collapse, Collapsing
+Melt, Melting
+Shatter, Shattering
+Block, Blocking
+Identify, Identifying
+Map, Mapping
+Perceieve, Perceieving
+Escape, Escaping

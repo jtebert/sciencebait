@@ -1,0 +1,23 @@
+Petri Dish, Petri Dishes
+Solution, Solutions
+Cell Culture, Cell Cultures
+Protein, Proteins
+Gene, Genes
+Amino Acid, Amino Acids
+Assay, Assays
+Stem Cell, Stem Cells
+Embryo, Embryos
+Tumor, Tumors
+Neuroblastoma, Neuroblastomas
+Rectum, Rectums
+Pathology, Pathologies
+Crystal, Crystals
+Dysfunction, Dysfunctions
+Mutation, Mutations
+Personality Trait, Personality Traits
+Black Hole, Black Holes
+Integrin, Integrins
+Polymer, Polymers
+Retinoblastoma, Retinoblastomas
+Monoclonal Antibody, Monoclonal Antibodies
+Genome, Genomes

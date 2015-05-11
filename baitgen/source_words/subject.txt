@@ -1,0 +1,25 @@
+Cat, Cats
+Rat, Rats
+Mouse, Mice
+Cell Culture, Cell Cultures
+Deformation in the Space-Time Continuum, Deformations in the Space-Time Continuum
+Patient, Patients
+Subject, Subjects
+Human, Humans
+Planet, Planets
+Virus, Viruses
+Gene, Genes
+Insect, Insects
+Substrate, Substrates
+Child, Children
+Closed System, Closed Systems
+System, Systems
+Monkey, Monkeys
+Animal, Animals
+Primate, Primates
+Lobster, Lobsters
+Mammal, Mammals
+Black Hole, Black Holes
+Naked Mole Rat, Naked Mole Rats
+Retinoblastoma, Retinoblastomas
+C. elegans, C. elegans
