@@ -1,5 +1,5 @@
 Researcher, Researchers
-scientist, Scientists
+Scientist, Scientists
 Physicist, Physicists
 Biologist, Biologists
 Mathematician, Mathematicians
@@ -9,3 +9,6 @@ Astrobiologist, Astrobiologists
 Astronomer, Astronomers
 Doctor, Doctors
 Biochemist, Biochemists
+Botanist, Botanists
+Bryologist, Bryologists
+Engineer, Engineers
