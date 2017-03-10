@@ -13,3 +13,7 @@ Cyborg, Cyborgs
 Republican, Republicans
 Democrat, Democrats
 Human, Humans
+Computer Scientist, Computer Scientists
+Engineer, Engineers
+Professor, Professors
+Graduate Student, Graduate Students
