@@ -12,3 +12,4 @@ Melt, Melting
 Perceieve, Perceieving
 Escape, Escaping
 Kill, Killing
+Self-assemble, Self-assembling
