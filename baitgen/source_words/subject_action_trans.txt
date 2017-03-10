@@ -12,3 +12,4 @@ Identify, Identifying
 Map, Mapping
 Perceieve, Perceieving
 Escape, Escaping
+Assemble, Assembling
